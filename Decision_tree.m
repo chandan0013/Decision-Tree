@@ -1,3 +1,4 @@
+% Data needs to be converted to csv format
 function [Train_x1,Train_y1,Train_x2,Train_y2,row,col] = CPTS570HW2Q2_1(X,Y,Z,T) 
    Train_x = X;
    Train_y = Y;
